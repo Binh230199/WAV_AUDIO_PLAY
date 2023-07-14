@@ -1,0 +1,11 @@
+../Core/Src/wavplayer.c:33:13:__WAV_SetSampleFreq	16	static
+../Core/Src/wavplayer.c:51:6:WAV_Init	16	static
+../Core/Src/wavplayer.c:61:16:__WAV_IsWavFile	16	static
+../Core/Src/wavplayer.c:76:18:WAV_GetState	16	static
+../Core/Src/wavplayer.c:88:9:WAV_FilterFile	4176	static,ignoring_inline_asm
+../Core/Src/wavplayer.c:138:18:WAV_Play	72	static,ignoring_inline_asm
+../Core/Src/wavplayer.c:209:18:WAV_Pause	16	static
+../Core/Src/wavplayer.c:223:18:WAV_Resume	16	static
+../Core/Src/wavplayer.c:242:18:WAV_Stop	16	static
+../Core/Src/wavplayer.c:259:18:WAV_Next	16	static
+../Core/Src/wavplayer.c:274:18:WAV_Back	16	static

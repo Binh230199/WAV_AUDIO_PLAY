@@ -1,0 +1,14 @@
+../Core/Src/sd.c:25:6:print	24	static
+../Core/Src/sd.c:35:10:SD_GetTotalSpace	48	static
+../Core/Src/sd.c:57:10:SD_GetFreeSpace	48	static
+../Core/Src/sd.c:80:9:SD_Mount	16	static
+../Core/Src/sd.c:96:9:SD_Unmount	16	static
+../Core/Src/sd.c:112:9:SD_Scan	32	static
+../Core/Src/sd.c:166:9:SD_CreateFile	32	static
+../Core/Src/sd.c:219:9:SD_WriteFile	48	static
+../Core/Src/sd.c:287:9:SD_ReadFile	40	static,ignoring_inline_asm
+../Core/Src/sd.c:355:9:SD_UpdateFile	48	static
+../Core/Src/sd.c:431:9:SD_DeleteFile	32	static
+../Core/Src/sd.c:472:9:SD_Rename	32	static
+../Core/Src/sd.c:512:10:SD_GetFileSize	40	static
+../Core/Src/sd.c:566:9:SD_CreateDir	72	static
